@@ -8,7 +8,7 @@
                 <div class="panel-heading">Dobrodošli</div>
 
                 <div class="panel-body">
-                    Ne znam šta ću ovde.
+                    Dobrodošli na aplikaciju za kreiranje anketa!
                 </div>
             </div>
         </div>
